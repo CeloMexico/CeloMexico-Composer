@@ -1,7 +1,22 @@
-# Introducción a Celo y Celo Composer
+# Lección 1: ¿Qué es Celo Composer y por qué usarlo?
 
-## Objetivo de aprendizaje
-Comprender qué es Celo, para qué sirve y cómo Celo Composer facilita el desarrollo de dApps en esta blockchain.
+## Objetivo
+Comprender qué es Celo Composer y qué problemas resuelve.
+
+## ¿Qué es Celo Composer?
+- Es la herramienta oficial para construir y desplegar dApps en la blockchain de Celo.
+- Ofrece plantillas, funciones, ejemplos y configuraciones listas para usar.
+- Ideal para proyectos con React, RainbowKit, MiniPay, Valora, entre otros.
+- Facilita el desarrollo de pagos, la conexión con wallets y la integración de contratos inteligentes.
+
+## ¿Por qué usarlo?
+- Ahorra tiempo y reduce la complejidad técnica al iniciar un proyecto.
+- Permite enfocarte en la lógica de tu dApp, sin preocuparte por la configuración inicial.
+- Incluye ejemplos prácticos y utilidades específicas para el ecosistema Celo.
+
+---
+
+¿Listo para empezar? ¡Avanza a la siguiente lección para instalar y configurar tu entorno!
 
 ## Prerrequisitos
 - Ganas de aprender
