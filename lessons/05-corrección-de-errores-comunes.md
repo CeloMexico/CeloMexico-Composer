@@ -39,4 +39,4 @@ Ajustar los nombres de los workspaces y scripts en el `package.json` raíz para 
    ```
 
 ---
-[← Lección anterior](lessons/04-preparar-el-entorno.md) | [Siguiente lección →](lessons/06-iniciar-tu-aplicacion.md) 
+[← Lección anterior](04-preparar-el-entorno.md) | [Siguiente lección →](06-iniciar-tu-aplicacion.md) 

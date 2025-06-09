@@ -6,4 +6,4 @@ Si tienes dudas:
 - Escribe tus dudas.
 
 ---
-[← Lección anterior](lessons/07-conoce-las-plantillas.md) 
+[← Lección anterior](07-conoce-las-plantillas.md) 

@@ -24,4 +24,4 @@ Responde las siguientes preguntas:
 Espera unos minutos mientras se crea el proyecto.
 
 ---
-[← Lección anterior](lessons/02-instalacion.md) | [Siguiente lección →](lessons/04-preparar-el-entorno.md) 
+[← Lección anterior](02-instalacion.md) | [Siguiente lección →](04-preparar-el-entorno.md) 

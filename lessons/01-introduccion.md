@@ -45,4 +45,4 @@ Comprender qué es Celo Composer y qué problemas resuelve.
 - [Repositorio de Celo Composer](https://github.com/celo-org/celo-composer)
 
 ---
-[Siguiente lección →](lessons/02-instalacion.md) 
+[Siguiente lección →](02-instalacion.md) 

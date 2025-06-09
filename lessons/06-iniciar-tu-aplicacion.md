@@ -20,4 +20,4 @@ Luego abre en el navegador:
 [http://localhost:3000](http://localhost:3000)
 
 ---
-[← Lección anterior](lessons/05-corrección-de-errores-comunes.md) | [Siguiente lección →](lessons/07-conoce-las-plantillas.md) 
+[← Lección anterior](05-corrección-de-errores-comunes.md) | [Siguiente lección →](07-conoce-las-plantillas.md) 

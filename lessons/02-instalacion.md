@@ -10,4 +10,4 @@ Asegurarse de que el entorno está listo para usar Celo Composer.
 - Contar con conocimientos básicos de línea de comandos [Git](https://learngitbranching.js.org/)
 
 ---
-[← Lección anterior](lessons/01-introduccion.md) | [Siguiente lección →](lessons/03-tu-primer-proyecto.md)
+[← Lección anterior](01-introduccion.md) | [Siguiente lección →](03-tu-primer-proyecto.md)
