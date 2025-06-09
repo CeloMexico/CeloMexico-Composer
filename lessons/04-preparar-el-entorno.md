@@ -5,6 +5,11 @@ Configurar tu entorno para que la app funcione correctamente.
 
 ## Pasos
 
+Antes de iniciar tu proyecto, sigue estos pasos:
+
+- Renombra `.env.template` a `.env` en `packages/react-app/`.
+- Agrega tu WalletConnect Project ID desde [WalletConnect Cloud](https://cloud.walletconnect.com/).
+
 1. Renombra el archivo:
 
    ```bash
