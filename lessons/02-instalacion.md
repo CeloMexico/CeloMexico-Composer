@@ -3,9 +3,8 @@
 ## Objetivo
 Asegurarse de que el entorno está listo para usar Celo Composer.
 
-## Contenido
+## Contenido para instalar previamente.
 
 - Tener [Node.js v20+](https://nodejs.org/)
 - Tener [Git v2.38+](https://git-scm.com/)
-- Instalar [Yarn](https://classic.yarnpkg.com/lang/en/docs/install/) (opcional, pero recomendado en monorepos)
-- Contar con conocimientos básicos de línea de comandos 
+- Contar con conocimientos básicos de línea de comandos [Git](https://learngitbranching.js.org/)
