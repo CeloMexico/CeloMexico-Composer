@@ -39,5 +39,4 @@ Ajustar los nombres de los workspaces y scripts en el `package.json` raíz para 
    ```
 
 ---
-
-¡Listo! Guarda el archivo y ya puedes usar los comandos correctamente en tu monorepo. 
+[← Lección anterior](lessons/04-preparar-el-entorno.md) | [Siguiente lección →](lessons/06-iniciar-tu-aplicacion.md) 

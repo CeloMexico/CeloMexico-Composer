@@ -17,4 +17,7 @@ yarn workspace @examples/react-app dev
 
 Luego abre en el navegador:
 
-[http://localhost:3000](http://localhost:3000) 
+[http://localhost:3000](http://localhost:3000)
+
+---
+[← Lección anterior](lessons/05-corrección-de-errores-comunes.md) | [Siguiente lección →](lessons/07-conoce-las-plantillas.md) 

@@ -17,4 +17,7 @@ Configurar tu entorno para que la app funcione correctamente.
 
    ```bash
    yarn install
-   ``` 
+   ```
+
+---
+[← Lección anterior](lessons/03-tu-primer-proyecto.md) | [Siguiente lección →](lessons/05-corrección-de-errores-comunes.md) 

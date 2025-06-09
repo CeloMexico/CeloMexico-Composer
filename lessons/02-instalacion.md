@@ -8,3 +8,6 @@ Asegurarse de que el entorno está listo para usar Celo Composer.
 - Tener [Node.js v20+](https://nodejs.org/)
 - Tener [Git v2.38+](https://git-scm.com/)
 - Contar con conocimientos básicos de línea de comandos [Git](https://learngitbranching.js.org/)
+
+---
+[← Lección anterior](lessons/01-introduccion.md) | [Siguiente lección →](lessons/03-tu-primer-proyecto.md)

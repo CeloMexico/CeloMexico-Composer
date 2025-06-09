@@ -9,4 +9,7 @@
 ## Valora
 
 - Plantilla para conexión fácil con la wallet Valora.
-- Ideal para manejar transacciones y conectividad móvil. 
+- Ideal para manejar transacciones y conectividad móvil.
+
+---
+[← Lección anterior](lessons/06-iniciar-tu-aplicacion.md) | [Siguiente lección →](lessons/08-comunidad-y-soporte.md) 

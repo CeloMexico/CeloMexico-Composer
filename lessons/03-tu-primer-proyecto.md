@@ -14,11 +14,14 @@ npx @celo/celo-composer@latest create
 Responde las siguientes preguntas:
 
 - **Nombre del proyecto:** Escribe el nombre de tu app.
-- **¿Quieres usar Hardhat?** (Sí o No)
-- **¿Quieres usar una plantilla?** (Sí o No)
-  - Si respondes sí, selecciona una de las siguientes:
+- **¿Quieres usar Hardhat?** (Sí o No) Selecciona Si
+- **¿Quieres usar una plantilla?** (Sí o No) Selecciona Si
+  -Selecciona la siguiente: MINIPAY (ENTER)
     - **MiniPay:** App de micropagos integrada con Celo.
     - **Valora:** App preparada para conectar con la wallet Valora.
 - **Nombre del propietario del proyecto**
 
-Espera unos minutos mientras se crea el proyecto. 
+Espera unos minutos mientras se crea el proyecto.
+
+---
+[← Lección anterior](lessons/02-instalacion.md) | [Siguiente lección →](lessons/04-preparar-el-entorno.md) 
