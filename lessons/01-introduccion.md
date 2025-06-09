@@ -18,8 +18,6 @@ Comprender qué es Celo Composer y qué problemas resuelve.
 
 ¿Listo para empezar? ¡Avanza a la siguiente lección para instalar y configurar tu entorno!
 
-## Prerrequisitos
-- Ganas de aprender
 
 ## Instrucciones paso a paso
 1. **¿Qué es Celo?**
@@ -31,14 +29,6 @@ Comprender qué es Celo Composer y qué problemas resuelve.
    - Ahorra tiempo y reduce la complejidad técnica.
    - Incluye ejemplos, plantillas y utilidades para desplegar y probar rápidamente.
 
-## Código de ejemplo
-```bash
-# No se requiere código en esta lección introductoria.
-```
-
-## Ejercicios o preguntas de repaso
-- ¿Qué ventajas ofrece Celo frente a otras blockchains?
-- ¿Para qué sirve Celo Composer?
 
 ## Recursos adicionales
 - [Documentación oficial de Celo](https://docs.celo.org/)
