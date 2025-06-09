@@ -12,7 +12,7 @@ yarn dev
 O directamente:
 
 ```bash
-yarn workspace @examples/react-app dev
+yarn react-app:dev
 ```
 
 Luego abre en el navegador:
